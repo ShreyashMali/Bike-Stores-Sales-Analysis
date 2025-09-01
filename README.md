@@ -139,7 +139,7 @@ Excel Sales Performance Dashboard
 📊 Dashboard Overview
 This dynamic Excel dashboard provides a comprehensive, interactive overview of sales performance for a multi-store bicycle retailer. It transforms raw sales data into actionable business intelligence, allowing stakeholders to visually track KPIs, analyze trends, and make data-driven decisions at a glance.
 
-https://dashboard.png
+
 
 🎯 Key Features
 Interactive Filters: Slicers for Year and Date Range allow users to dynamically filter the entire dashboard.
